@@ -1,0 +1,18 @@
+protocol: "tcp"
+
+tcp:
+  ip: "192.168.0.4"
+  port: 502
+
+rtu:
+  port: "COM3"
+  baudrate: 9600
+  parity: "N"
+  stopbits: 1
+  bytesize: 8
+  timeout: 1
+
+slave_id: 1
+poll_interval: 2
+log_csv: true
+csv_file: "modbus_log.csv"

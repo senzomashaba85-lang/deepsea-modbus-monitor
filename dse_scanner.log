@@ -1,0 +1,39 @@
+2025-11-11 15:12:33,166 - dse_scanner - INFO - Closing app...
+2025-11-11 15:12:33,189 - dse_scanner - INFO - Closed
+2025-11-11 15:12:33,243 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<ModbusApp.ping_ip_task() running at c:\Users\senzo\Desktop\deepsea_modbus_app\deepsea_modbus_monitor.py:578> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:391]>
+2025-11-11 16:13:39,012 - dse_scanner - INFO - ModbusApp initialized
+2025-11-11 16:14:03,044 - dse_scanner - ERROR - read_holding error: 'ReadHoldingRegistersResponse' object is not iterable
+2025-11-11 16:14:03,265 - dse_scanner - ERROR - read_holding error: 'ReadHoldingRegistersResponse' object is not iterable
+2025-11-11 16:14:03,328 - dse_scanner - ERROR - read_holding error: 'ReadHoldingRegistersResponse' object is not iterable
+2025-11-11 16:14:19,591 - dse_scanner - ERROR - read_holding error: 'ReadHoldingRegistersResponse' object is not iterable
+2025-11-11 16:14:19,622 - dse_scanner - ERROR - read_holding error: 'ReadHoldingRegistersResponse' object is not iterable
+2025-11-11 16:14:19,676 - dse_scanner - ERROR - read_holding error: 'ReadHoldingRegistersResponse' object is not iterable
+2025-11-11 16:15:02,203 - dse_scanner - INFO - Closing application...
+2025-11-11 16:15:02,283 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<ModbusApp.ping_task() running at c:\Users\senzo\Desktop\deepsea_modbus_app\deepsea_modbus_monitor.py:610> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:391]>
+2025-11-11 16:20:46,650 - dse_scanner - INFO - ModbusApp initialized
+2025-11-11 16:24:48,668 - dse_scanner - INFO - Closing app...
+2025-11-11 16:24:48,756 - dse_scanner - INFO - Closed
+2025-11-11 16:24:51,916 - dse_scanner - INFO - Closing app...
+2025-11-11 16:24:51,965 - dse_scanner - INFO - Closed
+2025-11-11 16:24:51,989 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<ModbusApp.ping_ip_task() done, defined at c:\Users\senzo\Desktop\deepsea_modbus_app\deepsea_modbus_monitor.py:1279> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:391]>
+2025-11-11 16:24:51,991 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<ModbusApp.ping_ip_task() running at c:\Users\senzo\Desktop\deepsea_modbus_app\deepsea_modbus_monitor.py:566> wait_for=<Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:384, Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:391]>
+2025-11-11 16:28:41,725 - dse_scanner - INFO - Closing app...
+2025-11-11 16:28:41,767 - dse_scanner - INFO - Closed
+2025-11-11 16:28:49,887 - dse_scanner - INFO - Closing app...
+2025-11-11 16:28:49,934 - dse_scanner - INFO - Closed
+2025-11-11 16:28:52,804 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<ModbusApp.ping_ip_task() running at c:\Users\senzo\Desktop\deepsea_modbus_app\deepsea_modbus_monitor.py:578> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:391]>
+2025-11-11 16:28:52,805 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<ModbusApp.ping_ip_task() running at c:\Users\senzo\Desktop\deepsea_modbus_app\deepsea_modbus_monitor.py:1287> wait_for=<Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:384, Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:391]>
+2025-11-11 16:30:01,555 - dse_scanner - INFO - Closing app...
+2025-11-11 16:30:01,605 - dse_scanner - INFO - Closed
+2025-11-11 16:30:04,406 - dse_scanner - INFO - Closing app...
+2025-11-11 16:30:04,451 - dse_scanner - INFO - Closed
+2025-11-11 16:30:04,804 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<ModbusApp.ping_ip_task() done, defined at c:\Users\senzo\Desktop\deepsea_modbus_app\deepsea_modbus_monitor.py:1279> wait_for=<Future pending cb=[_chain_future.<locals>._call_check_cancel() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:384, Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:391]>
+2025-11-11 16:30:04,804 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<ModbusApp.ping_ip_task() running at c:\Users\senzo\Desktop\deepsea_modbus_app\deepsea_modbus_monitor.py:578> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at C:\Users\senzo\AppData\Local\Programs\Python\Python310\lib\asyncio\futures.py:391]>
